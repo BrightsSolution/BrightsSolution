@@ -28,7 +28,6 @@ We provide a wide range of services, with a spotlight on **AI, software, and ful
 - E-Commerce Platforms
 - Cloud-Native Solutions (AWS, Azure, GCP)
 - API Development & Integration
-- DevOps & CI/CD Pipelines
 
 ### 📈 Business Process Outsourcing (BPO)
 - Lead Generation (Insurance, Health, Business)
