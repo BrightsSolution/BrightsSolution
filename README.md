@@ -1,4 +1,4 @@
-# <center>🌟 Bright Solutions: Pioneering AI & Software Innovation 🌟</center>
+# <center>🌟 Bright Solutions: Innovating with AI, Web, App & BPO Expertise 🌟</center>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&center=true&vCenter=true&color=00EFFF&width=1000&height=50&lines=AI+Solutions+%7C+Full-Stack+Development+%7C+BPO+%7C+Cloud+Innovation;Delivering+Scalable+AI+%26+Software+Solutions+for+Global+Businesses;From+Concept+to+Production+with+Cutting-Edge+Technology" />
 
